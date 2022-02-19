@@ -16,4 +16,14 @@ knocked down by the next roll. So in frame 3 above, the score is 10 (the total n
 bonus of 5 (the number of pins knocked down on the next roll.)
 A strike is when the player knocks down all 10 pins on his first try. The bonus for that frame is the value of the
 next two balls rolled.
-In the tenth frame a player who rolls a spare or strike is allowed
+In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame.
+However no more than three balls can be rolled in tenth frame.
+Evaluation criteria:
+Your solution will be evaluated on the basis of the following:
+• Design and object modelling
+• Solution structure
+• Test cases
+• Overall solution approach
+• Readability and maintainability of code
+The solution should assume valid inputs at all times and does not need to include unnecessary validations
+trying to prevent bad input data.
